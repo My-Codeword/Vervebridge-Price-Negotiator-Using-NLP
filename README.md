@@ -1,7 +1,7 @@
 # Vervebridge-Price-Negotiator-Using-NLP
 <-------------------1.All Imported Module---------------->
 |
-|NOTE:Install the latest version of these Module.
+|NOTE: Install the latest version of this Module.
 --import pandas as pd
 --import numpy as np
 --import astropy
